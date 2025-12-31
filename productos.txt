@@ -1,3 +1,0 @@
-Nombre;Código;Precio;Stock
-Gas;0356;13;5
-Gasolina;123;15.0;3

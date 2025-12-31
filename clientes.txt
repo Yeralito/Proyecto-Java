@@ -1,7 +1,0 @@
-Nombre;Tipo;Documento;Teléfono;Dirección
-Luis Chipana Puma;DNI;71479448;934991976;Av. Alfredo Mendiola 854
-Yeral;DNI;60781173;976374868;Cerezas 166, Comas15316
-Fabrizio;DNI;60418392;903097363;Jr. Armando Blondet
-afjkaf;151;2;23
-GNV;1234;12;3
-GNV;1234;13;3
